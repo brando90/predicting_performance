@@ -10,3 +10,5 @@
     year={2021}
 }
 ```
+
+If you were part of this project and want to be included in the citation create a git issue.
